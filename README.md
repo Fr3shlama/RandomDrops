@@ -7,4 +7,4 @@ Here is the solution! Make it almost impossible to play thtough with this lightw
 
 #### Installation
 1. Head over to [Releases](https://github.com/Fr3shlama/RandomDrops/releases/) and download the latest plugin jar.
-1. Drop the jar file into the plugins folder of your spigot server.
+1. Drop the jar file into the plugins folder of your spigot server. (Tested on 1.15.1)
