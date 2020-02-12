@@ -8,7 +8,9 @@ public class Main extends JavaPlugin {
 	
 	@Override
     public void onEnable() {
+		
 		getServer().getPluginManager().registerEvents(new BlockBreakListener(), this);
+		getServer().getPluginManager().registerEvents(new MobKillListener(), this);
         Log.info("Enabled RandomDrops");
     }
 
