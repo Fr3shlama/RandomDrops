@@ -1,5 +1,6 @@
 # RandomDrops
-Is normal minecraft "too easy"
+Is normal minecraft "too easy"?
+
 Here is the solution! Make it almost impossible to play thtough with this lightweight spigot plugin
 
 #### Features
